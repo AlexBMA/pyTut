@@ -11,7 +11,7 @@ hAndTList = []
 list2 = ["H", "T"]
 
 for i in range(number):
-    val = random.choice(list(list2))
+    val = random.choice(list2)
     hAndTList.append(val)
 
 countH = 0
